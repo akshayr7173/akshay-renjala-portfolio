@@ -51,6 +51,7 @@ export default {
 				card: {
 					DEFAULT: 'hsl(0, 0%, 100%)',
 					foreground: 'hsl(215, 25%, 27%)'
+				}
 			},
 			borderRadius: {
 				lg: '0.75rem',
