@@ -9,7 +9,7 @@ const Education = () => {
       institution: "Alva's Institute of Engineering and Technology, Moodbidri",
       year: "2025",
       performance: "CGPA: 7.69",
-      type: "current"
+      type: "completed"
     },
     {
       degree: "Pre-university course (PCMC)",
@@ -92,18 +92,6 @@ const Education = () => {
                     </div>
                   </div>
 
-                  {/* Progress Bar for Current Education */}
-                  {edu.type === "current" && (
-                    <div className="mt-6 pt-6 border-t border-border/50">
-                      <div className="flex items-center justify-between text-sm text-muted-foreground mb-2">
-                        <span>Academic Progress</span>
-                        <span>Expected: 2025</span>
-                      </div>
-                      <div className="w-full bg-muted rounded-full h-2">
-                        <div className="bg-accent rounded-full h-2 transition-all duration-500" style={{width: "85%"}}></div>
-                      </div>
-                    </div>
-                  )}
                 </CardContent>
               </Card>
             ))}

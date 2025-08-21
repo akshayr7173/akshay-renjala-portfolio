@@ -28,7 +28,7 @@ const Hero = ({ onContactClick }: HeroProps) => {
             </h1>
             
             <h2 className="text-xl md:text-2xl text-foreground mb-6 font-medium">
-              Full Stack Developer & AI/ML Enthusiast
+              Full Stack Developer
             </h2>
             
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl">
