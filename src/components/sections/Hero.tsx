@@ -23,15 +23,15 @@ const Hero = ({ onContactClick }: HeroProps) => {
               Software Engineer
             </Badge>
             
-            <h1 className="text-5xl md:text-7xl font-bold text-primary-foreground mb-6">
+            <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6">
               AKSHAY R
             </h1>
             
-            <h2 className="text-xl md:text-2xl text-primary-foreground/80 mb-6 font-medium">
+            <h2 className="text-xl md:text-2xl text-foreground mb-6 font-medium">
               Full Stack Developer & AI/ML Enthusiast
             </h2>
             
-            <p className="text-lg text-primary-foreground/70 mb-8 max-w-2xl">
+            <p className="text-lg text-muted-foreground mb-8 max-w-2xl">
               Computer Science Engineering student passionate about building innovative web applications 
               and AI solutions. Experienced in full-stack development with React, ASP.NET, and Python.
             </p>

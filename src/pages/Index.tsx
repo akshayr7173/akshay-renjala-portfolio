@@ -70,9 +70,6 @@ const Index = () => {
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground py-8">
         <div className="container mx-auto px-6 text-center">
-          <p className="text-sm opacity-80">
-            © 2025 Akshay R. Built with React, TypeScript & Tailwind CSS.
-          </p>
         </div>
       </footer>
     </div>
