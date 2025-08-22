@@ -7,7 +7,7 @@ const Education = () => {
     {
       degree: "Bachelor of Computer Science and Engineering",
       institution: "Alva's Institute of Engineering and Technology, Moodbidri",
-      year: "2024",
+      year: "2025",
       performance: "CGPA: 7.69",
       type: "completed"
     },
