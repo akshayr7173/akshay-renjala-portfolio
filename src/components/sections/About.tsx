@@ -60,7 +60,7 @@ const About = () => {
                   <Calendar className="w-5 h-5 text-primary" />
                 </div>
                 <div>
-                  <p className="font-medium text-foreground">Expected Graduation</p>
+                  <p className="font-medium text-foreground">Graduated</p>
                   <p className="text-muted-foreground">2025</p>
                 </div>
               </div>
